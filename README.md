@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Stock Management project<br>🧐 I’m looking to collaborate on open-source repositories<br>🌱 I’m currently learning about TypeORM, Zod  React<br>⚡ Fun fact: I drink coffee from a “Go Horse” mug everyday
+🔭 I’m currently working on a Stock Management project<br>🧐 I’m looking to collaborate on open-source repositories<br>🌱 I’m currently learning about TypeORM, Zod and React<br>⚡ Fun fact: I drink coffee from a “Go Horse” mug everyday
 
 
 ## 🌐 Socials:
